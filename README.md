@@ -181,6 +181,11 @@ This is **Laegna Immortalitesimal**.
 ---------
 Below is the task for an AI:
 
+Goal: you analyze the theories and maths, find models, proofs and paradigms.
+Modes: game theory (repeated games => infinity), science, social models, spirituality, zen, tao, laegna, spireason and Viking (especially in Laegna style). Each element has unique style, altough groups of elements align and page itself is coherent theory of their interdisposition, the layout. All these modes provide for local styles, paradigmatic views, different domains of scientific and intuitive proofs and reflections.
+
+https://github.com/tambetvali/Immortalitesimal is first the copilot into, then after horizontal line the main task itself, which is below:
+
 # Immortalitesimal
 Let our life immortalitesimal.
 
