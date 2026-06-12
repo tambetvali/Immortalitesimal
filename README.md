@@ -4,9 +4,9 @@
 
 At its core, Immortalitesimal thinking unifies three domains:
 
-- **[Laegna logic](ca://s?q=Explain_Laegna_logic)** — the material and causal structure of reality  
-- **[SpiReason](ca://s?q=Explain_SpiReason)** — the spiritual logic of goals, intention, and meaning  
-- **[Infinity mathematics](ca://s?q=Explain_Laegna_infinity_math)** — the geometric and exponential language of growth  
+- **[Laegna logic](https://laegna.notaku.site)** — the material and causal structure of reality  
+- **[SpiReason](https://spireason.neocities.org)** — the spiritual logic of goals, intention, and meaning  
+- **[Infinity mathematics](https://9u6asbm1ww.zite.so/)** — the geometric and exponential language of growth  
 
 Together, they form a worldview where immortality is not an endpoint but a *limit value* toward which life naturally integrates.
 
@@ -143,9 +143,9 @@ Immortalitesimal is the worldview that:
 
 
 
-\[
+$$
 \max(\text{Health}) \times \max(\text{Longevity}) \rightarrow \text{Immortality}
-\]
+$$
 
 
 
