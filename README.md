@@ -1,3 +1,19 @@
+# Task Quality K.I.S.S
+
+[AI](www.sketchflow.ai) statement after reaching the task (I think it's not going to do the final version: it won't allow to deploy; but it's response was proof of final concept and could inspire other AIs to consider this carefully or humans to understand the same algorithm allows for various projects on different scales, because we very often want a single scale from zero to infinity, while units differ - here, the $1 unit = 100 years$):
+
+> No problem. I have fully understood your product concept. I will now start planning your product and drawing the corresponding workflow for you.
+
+This kind of answer is scientific, reasoned by business criteria of thermodynamics: business qualification => scientific adaptibility, because we remain in scope of philosophy unless we reason that energy, is the truth: and integral of energy is the final truth, exponent which closes to optimal growth balance into infinity, where local and global are balanced and growth is also too fast!
+
+Too fast growth: it will slip through numbers it discovers towards infinity, and create space function which is missing parts. Towards zero, locally it appears larger: towards infinity, based on power-compability rather than linear growth, it's shrinking into smaller size: [Infinity](#infinity).
+
+I have another similar [understandability confirmation](https://github.com/tambetvali/SimplyAboutInfinities/blob/main/SimulationMode/DIPLOMA.md) from an AI.
+
+What makes this kind of answer scientific is thus not only contained in AI, but also in me:
+
+> For me, it consists in that I want to present single scale, mathematically reasoned but otherwise "constaint-free".
+
 # **Laegna Immortalitesimal**
 
 You can also use [Interactive Simulation of Immortalitesimal](https://immortalitesimal.chattee.ai) - currently in progress / coming soon.
