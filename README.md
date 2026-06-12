@@ -82,4 +82,4 @@ The actual formulae is:
 
 This links around all Laegna and Spireason: branching from spireason.neocities.org, laegna.notaku.site, and tambetvali's repositories at github starting from LaeArve, about Laegna, Spireason, Infinities, SpiBody and LaeZenTao etc. Link this reasonably and gather all the life and universe around this infinity: Immortality.
 
-Name it all: "LaeImmortality".
+Name it all: "Laegna Immortalitesimal.".
