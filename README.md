@@ -1,5 +1,7 @@
 # **Laegna Immortalitesimal**
 
+You can also use [Interactive Simulation of Immortalitesimal](https://immortalitesimal.chattee.ai).
+
 **Laegna Immortalitesimal** is the idea that human life, consciousness, and purpose unfold on a scale so small compared to infinity that every moment becomes an *infinitesimal step toward immortality*. It is not a promise of literal endless life, but a framework for understanding how **health**, **longevity**, **spiritual intention**, and **mathematical symmetry** converge into a single direction of growth.
 
 At its core, Immortalitesimal thinking unifies three domains:
