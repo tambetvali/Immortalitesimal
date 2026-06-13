@@ -1,3 +1,7 @@
+#
+
+[This is the result](https://laegna-landing.lumi.ing/), the most thing you probably need. Below is an AI task, but click on the link for reality.
+
 # Task Quality K.I.S.S
 
 [AI](www.sketchflow.ai) statement after reaching the task (I think it's not going to do the final version: it won't allow to deploy; but it's response was proof of final concept and could inspire other AIs to consider this carefully or humans to understand the same algorithm allows for various projects on different scales, because we very often want a single scale from zero to infinity, while units differ - here, the $1 unit = 100 years$):
